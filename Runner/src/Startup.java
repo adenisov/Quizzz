@@ -4,5 +4,8 @@ public final class Startup {
         rotateMatrix.solve();
         MaxSumMultiple maxSumMultiple = new MaxSumMultiple();
         maxSumMultiple.solve();
+
+        RearrangeAlphabetAndNums rearrangeAlphabetAndNums = new RearrangeAlphabetAndNums();
+        rearrangeAlphabetAndNums.solve();
     }
 }
