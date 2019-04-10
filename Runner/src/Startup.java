@@ -7,5 +7,8 @@ public final class Startup {
 
         RearrangeAlphabetAndNums rearrangeAlphabetAndNums = new RearrangeAlphabetAndNums();
         rearrangeAlphabetAndNums.solve();
+
+        UniquePathInGrid uniquePathInGrid = new UniquePathInGrid();
+        uniquePathInGrid.solve();
     }
 }
